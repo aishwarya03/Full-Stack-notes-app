@@ -144,3 +144,5 @@ node_modules/
 # Ignore build/dist folders if you have them
 backend/build/
 frontend/build/
+
+knexfile.js
